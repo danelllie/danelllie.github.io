@@ -21,5 +21,8 @@
     "express": "^4.13.3",
     "gulp": "^3.9.0",
     "tiny-lr": "^0.2.0"
+  },
+  "dependencies": {
+    "livereload-js": "^2.2.2"
   }
 }

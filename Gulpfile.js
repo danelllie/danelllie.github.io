@@ -3,7 +3,7 @@ var gulp = require('gulp');
 var tinylr;
 gulp.task('livereload', function() {
     tinylr = require('tiny-lr')();
-    tinylr.listen(35729);
+    tinylr.listen(4002);
 });
 
 
